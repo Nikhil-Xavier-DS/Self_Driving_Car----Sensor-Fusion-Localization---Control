@@ -1,4 +1,4 @@
-# Self_Driving_Car----Sensor-Fusion-Localization-&-Control
+# Self_Driving_Car----Sensor Fusion, Localization & Control
 
 1. Extended-Kalman-Filter for Autonomous Vehicles
 2. Unscented-Kalman-Filter for Autonomous Vehicles
